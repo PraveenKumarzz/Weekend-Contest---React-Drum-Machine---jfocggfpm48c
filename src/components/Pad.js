@@ -31,4 +31,3 @@ function Pad({ handleClick, power, backgroundStyle, element, id }) {
 }
 
 export default Pad;
-Footer;
